@@ -1,0 +1,38 @@
+/*Styles personalizados para la aplicacion en el diseño de imagen de fondo*/
+
+body {
+    margin: 0;
+    font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-image: url('/../images/fondo-registro.jpg');
+    height: 500px;
+  }
+
+.user-img{
+    -ms-flex-align: center;
+    align-items: center;
+  
+    background-image: url('/../images/musica.jpg'); 
+    height: 500px;
+    
+    color: #fbff01;
+    
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100vh;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.login-box,
+.register-box {
+  background-color: #000;
+  width: 360px;
+}
+

@@ -1,0 +1,149 @@
+body class="hold-transition login-page"
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+Canción:Pelotero Grandes ligas Lupillo Rivera,Aleman,Santa FeKlan,B-Real,Snoop Dogg
+
+enéro: Rap
+
+Año de lanzamiento: 2021
+
+Album: Z Music Group
+
+Redes sociales: Compañía: Z Music Group
+
+Tiempo escuchandolo: 1 Año(s)
+
+Letra de la cancion: Sigue subiendo la venta La gente nunca es lo que aparenta La virgen me cuida, la calle me respeta Moviendo efectivo, disparo como escopeta Neta, somos los dueños de la banqueta
+
+La mejor colaboración de rap con grandes exponente internacionales y mexicanos.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+Canción:Engel Rammstein
+
+Genéro: Metal
+
+Año de lanzamiento: 1997
+
+Album: SEHNSUCHT
+
+Redes sociales: Facebook, Whatsapp
+
+Tiempo escuchandolo: 4 Año(s)
+
+Letra de la cancion: Wer zu Lebzeit gut auf Erden Wird nach dem Tod ein Engel werden Den Blick gen Himmel fragst du dann Warum man sie nicht sehen kann
+
+El mejor grupo alemán de metal.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1111
+
+Profesión:Programador
+
+Nombre: Pablo Sánchez Juárez
+
+Edad: 28 Años
+
+Número telefónico: 2311221608
+
+Años trabajando en ello: 4 Año(s)
+
+Le gusto por: Me llamo mucho la atención; saber, aprender sobre las computadoras y lo mejor poder aprender a crear app móviles y web.
+
+Descripción de la carrera: Un programador es aquella persona que elabora programas de computadora,​ es decir escribe, depura y mantiene el código fuente de un programa informático, que ejecuta el hardware de una computadora, para realizar una tarea determinada.
+
+La mejor carrera que puedes escoger por que te gustara mucho.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+
+Profesión:Enfermero
+
+Nombre: Luca Álvarez Sánchez
+
+Edad: 27 Años
+
+Número telefónico: 2221058769
+
+Años trabajando en ello: 3 Año(s)
+
+Le gusto por: De mi padre
+
+Descripción de la carrera: Enfermera es aquella persona que se dedica al cuidado personal e intensivo de un paciente, ya sea en el centro hospitalario o de salud como en su domicilio particular.
+
+La mejor carrera que puedes escoger, por que, te gustara mucho.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Contacto:Pablo Beniz Santos
+28 Años
+
+Dirección de correo: pablobenitezsantos.045@gmail.com
+
+Calle y codigo postal: El Carrizal CP. 73967
+
+Localidad: Atoluca
+
+Ciudad: Teziutlan
+
+Estado: Puebla *
+
+Whatsapp, Facebook
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+Contacto:Luca Álvarez Sánchez
+27 Años
+
+Dirección de correo: lucasalvarezsanchez.045@gmail.com
+
+Calle y codigo postal: El manzano CP 73231
+
+Localidad: Lomas Verdes
+
+Ciudad: Chignautla
+
+Estado: Puebla *
+
+Whatsapp, Facebook
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Animal:Perro
+
+Edad: 7 Años
+
+Lugar de origen: México
+
+Clima: Cálido y templado
+
+Color: Blanco
+
+Pejale: Lacio
+
+Comida: Croquetas
+
+El mejor amigo fiel y juguetón que podrás tener en tu vida, conviviendo contigo a donde vayas.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1111
+
+Animal:Gato
+
+Edad: 5 Años
+
+Lugar de origen: México
+
+Clima: Cálido y templado
+
+Color: Amarillo
+
+Pejale: Lacio
+
+Comida: Whiskas
+
+El mejor amigo que puedes tener, ya que te dará mucho amor y cariño, cuidándote de malas vibras a donde vayas.
+
+
+
+https://github.com/fzaninotto/Faker#formatters
+
+

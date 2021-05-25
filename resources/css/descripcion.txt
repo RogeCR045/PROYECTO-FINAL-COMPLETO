@@ -1,0 +1,173 @@
+Genéro: Metal
+
+Año de lanzamiento: 1997
+Canción:Engel Rammstein
+
+Album: SEHNSUCHT
+
+Redes sociales: Facebook, Whatsapp
+
+Tiempo escuchandolo: 4 Año(s)
+
+Letra de la cancion: Wer zu Lebzeit gut auf Erden Wird nach dem Tod ein Engel werden Den Blick gen Himmel fragst du dann Warum man sie nicht sehen kann
+
+El mejor grupo alemán de metal.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Canción:Pelotero Grandes ligas Lupillo Rivera, Aleman, Santa Fe Klan, B-Real, Snoop Dogg
+Genéro: Rap
+
+Año de lanzamiento: 2021
+
+Album: Z Music Group
+
+Redes sociales: Compañía: Z Music Group
+
+Tiempo escuchandolo: 1 Año(s)
+
+Letra de la cancion: Sigue subiendo la venta La gente nunca es lo que aparenta La virgen me cuida, la calle me respeta Moviendo efectivo, disparo como escopeta Neta, somos los dueños de la banqueta
+
+La mejor colaboración de rap con grandes exponente internacionales y mexicanos.
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Profesión:Programador
+
+Nombre: Pablo Sánchez Juárez
+
+Edad: 21 Años
+
+Número telefónico: 2311221608
+
+Años trabajando en ello: 4 Año(s)
+
+Le gusto por: Me llamo mucho la atención; saber, aprender sobre las computadoras y lo mejor poder aprender a crear app móviles y web.
+
+Descripción de la carrera: Un programador es aquella persona que elabora programas de computadora,​ es decir escribe, depura y mantiene el código fuente de un programa informático, que ejecuta el hardware de una computadora, para realizar una tarea determinada.
+
+La mejor carrera que puedes escoger por que te gustara mucho.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Profesión:Enfermero
+
+Nombre: Luca Álvarez Sánchez
+
+Edad: 24 Años
+
+Número telefónico: 2221058769
+
+Años trabajando en ello: 5 Año(s)
+
+Le gusto por: De mi padre
+
+Descripción de la carrera: Los Enfermeros asisten a los médicos en el diagnóstico y tratamiento de pacientes, realizando para ello exámenes, administrándoles medicamentos y haciéndole seguimiento a su condición física y mental.
+
+La mejor carrera que puedes escoger por que te gustara mucho.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+
+Contacto:Alberto Sánchez Castillo
+21 Años
+
+Dirección de correo: rogeliocastanedareyes.045@gmail.com
+
+Calle y codigo postal: El manzano CP 7323
+
+Localidad: Lomas Verdes
+
+Ciudad: Chignautla
+
+Estado: ´Puebla
+
+Whatsapp, Facebook
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+Contacto:Salvador Juárez Benítez
+24 Años
+
+Dirección de correo: salvadorjuarezbenitez.045@gmail.com
+
+Calle y codigo postal: El Carrizal CP 73967
+
+Localidad: ATOLUCA
+
+Ciudad: Teziutlán
+
+Estado: Puebla *
+
+Whatsapp, Facebook
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+Animal:Perro
+
+Edad: 7 Años
+
+Lugar de origen: México
+
+Clima: Cálido y templado
+
+Color: Blanco
+
+Pejale: Lacio
+
+Comida: Croquetas
+
+El mejor amigo fiel que puedes tener en tu vida
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Animal:Gato
+
+Edad: 5 Años
+
+Lugar de origen: México
+
+Clima: Cálido y templado
+
+Color: Amarillo
+
+Pejale: Lacio
+
+Comida: Whiskas
+
+El mejor amigo cariñoso que puedes tener.
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+
+
+public function rules(){
+        return [
+   
+            'imagen'            => 'require: .jpeg, .bpm, .png',
+        ];
+    }
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+
+
+                    
+
+
+
+<br>
+                <div class="col-12">
+                    <center>
+<img src="\images\usuario2.png" width="100" height="100"  alt="#">
+                  </center>
+                  </div>
